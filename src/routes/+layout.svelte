@@ -1,6 +1,10 @@
+<script lang="ts">
+  const { children } = $props();
+</script>
+
 <div class="container">
   <header></header>
-  <main><slot /></main>
+  {@render children()}
   <footer></footer>
 </div>
 
