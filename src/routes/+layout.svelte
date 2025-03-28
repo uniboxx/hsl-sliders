@@ -46,7 +46,5 @@
     height: 100%;
     display: grid;
     grid-template-rows: auto 1fr auto;
-    justify-items: center;
-    align-items: center;
   }
 </style>
