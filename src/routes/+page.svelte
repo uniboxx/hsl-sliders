@@ -4,6 +4,8 @@
   let lightness = $state(50);
 </script>
 
+<svelte:head><title>Hsl Sliders</title></svelte:head>
+
 <main>
   <h1>HSL Css Color Function</h1>
   <div
